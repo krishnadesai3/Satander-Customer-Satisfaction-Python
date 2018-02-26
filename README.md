@@ -1,0 +1,2 @@
+# Satander-Customer-Satisfaction-Python
+Which customers are happy customers? We will work with hundreds of anonymized features to predict if a customer is satisfied or dissatisfied with their banking experience. We will help Santander identify dissatisfied customers early in their relationship. Doing so would allow Santander to take proactive steps to improve a customer's happiness before it's too late.
